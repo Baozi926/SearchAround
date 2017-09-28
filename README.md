@@ -1,13 +1,7 @@
-# 自定义Popup
+# A dragable Buffer using arcgis Javascript api 4
 
-对arcgis JavaScript api 4 的 popup进行扩展，例如，给关闭按钮增加触发事件，使open方法中的title属性可接受dom元素，而不是只能接受String
-详见 widgets/MyPopup.js
+![demo picture](https://github.com/Baozi926/SearchAround/blob/master/screenShot.png?raw=true)
 
-![demo picture](https://github.com/Baozi926/customPopup/blob/master/screenshot.png?raw=true)
+a Dragable Buffer,you change the radius of the circle by draging the div
 
-
-# customPopup
-
-a demo to show how to extent the popup of arcgis javascript api 4, details in widgets/MyPopup.js
-
-
+拖动div可以改变圆圈的大小。
